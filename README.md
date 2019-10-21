@@ -1,4 +1,4 @@
-# traning-project-webpack
+# Traning-project-webpack
 ## Its Lesson on YandexPracticum
 ### Project site
 
